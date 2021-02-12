@@ -2,9 +2,9 @@
 Pytorch implementation of paper [SyncGAN: Synchronize the Latent Spaces of Cross-Modal Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8486594).
 
 ## Requirement
-Python 3.6
-PyTorch >= 1.0.0
-NumPy
+- Python 3.6
+- PyTorch >= 1.0.0
+- NumPy
 
 ## Training
 ```
