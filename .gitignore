@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+FMNIST_data/
+MNIST_data/
+out/
+save/
 
 # C extensions
 *.so
