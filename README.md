@@ -13,4 +13,5 @@ python SyncGAN.py
 
 ## Results
 First two rows are the sample of ground truth pair, other rows are the results of random pair data generation.
+
 <img src="demo.jpg">
